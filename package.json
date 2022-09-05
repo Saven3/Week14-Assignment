@@ -1,0 +1,29 @@
+{
+  "name": "week14-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reviewform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saven3/Week14-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saven3/Week14-Assignment/issues"
+  },
+  "homepage": "https://github.com/Saven3/Week14-Assignment#readme",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
